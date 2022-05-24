@@ -1,0 +1,5 @@
+    NAME      ATTACK DEFENSE RANGE COOLDOWN SPEED                   IMAGE                          RECT_X RECT_Y OFFSET_X OFFSET_Y NB_ANIM                     ICON
+BASE_ATTACK    10      0        0     1.0      0      assets/combat/attacks/player_slash_attack.png   110    129  -30       30        3    assets/combat/attacks/fire_attack_icon.png
+FIRE_SPELL      5      0      400     2.0      8      assets/combat/attacks/player_fire_attack.png    70     30     0       60        5    assets/combat/attacks/fire_attack_icon.png
+    NAME      LEVEL  ATTACK  DEFENSE   HP   MAX_HP SPEED   EXP  MAX_EXP  GOLD
+DEFAULT         1      5        1      75     75     4     0     30       0

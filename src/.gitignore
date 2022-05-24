@@ -1,0 +1,22 @@
+/*
+
+# Files
+!*.c
+!.gitignore
+!render_window
+!rpg
+!*.h
+!init
+!error
+!output
+!game_over
+!game
+!menu
+!combat
+!attacks
+!settings
+!map
+!game/map
+!game/player
+!events
+!*.txt

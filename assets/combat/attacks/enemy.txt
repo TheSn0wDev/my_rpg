@@ -1,0 +1,51 @@
+    NAME      ATTACK DEFENSE  HP     SPEED  ATTACKS  EXP   GOLD
+DEFAULT         0      0      100      4      2      24    16
+    NAME      ATTACK DEFENSE RANGE COOLDOWN SPEED                   IMAGE                          RECT_X RECT_Y OFFSET_X OFFSET_Y NB_ANIM
+BASE_ATTACK    10      0        0     2.0      0      assets/combat/attacks/enemy_slash_attack.png   110    129    80        0        3
+FIRE_SPELL      5      0      400     4.0      8      assets/combat/attacks/enemy_fire_attack.png    70     30     80       60        5
+
+    NAME      ATTACK DEFENSE  HP    SPEED  ATTACKS  EXP   GOLD
+GHOST           0      0       50      4       1    14     8
+    NAME      ATTACK DEFENSE RANGE COOLDOWN SPEED                   IMAGE                          RECT_X RECT_Y OFFSET_X OFFSET_Y NB_ANIM
+FIRE_SPELL      5      0      200     4.0     6      assets/combat/attacks/enemy_fire_attack.png    70     30     80       60        5
+
+    NAME      ATTACK DEFENSE  HP    SPEED  ATTACKS  EXP   GOLD
+SKELETON         5      0     80      3      1       14     8
+    NAME      ATTACK DEFENSE RANGE COOLDOWN SPEED                   IMAGE                          RECT_X RECT_Y OFFSET_X OFFSET_Y NB_ANIM
+BASE_ATTACK    10      0       0     2.0     0      assets/combat/attacks/enemy_slash_attack.png   110    129     80        0        3
+
+    NAME      ATTACK DEFENSE  HP    SPEED  ATTACKS  EXP   GOLD
+GOBLIN          0      5      75      3      1       14     8
+    NAME      ATTACK DEFENSE RANGE COOLDOWN SPEED                   IMAGE                          RECT_X RECT_Y OFFSET_X OFFSET_Y NB_ANIM
+HIT_ATTACK      10      0       0     2.0     0      assets/combat/attacks/enemy_hit_attack.png    192    192     50        0        3
+
+    NAME      ATTACK DEFENSE  HP    SPEED  ATTACKS  EXP   GOLD
+DRAGON          5      5      50       5      2     28     14
+    NAME      ATTACK DEFENSE RANGE COOLDOWN SPEED                   IMAGE                          RECT_X RECT_Y OFFSET_X OFFSET_Y NB_ANIM
+CLAWS_ATTACK    10      0       0     8.0    8      assets/combat/attacks/enemy_claw2_attack.png   192    192     60      -20        20
+FIRE_SPELL2     5      0      400     4.0     8      assets/combat/attacks/enemy_fire2_attack.png    70     31     80       60        5
+
+    NAME      ATTACK DEFENSE  HP    SPEED  ATTACKS  EXP   GOLD
+MAGE             0      3     100      5      2     32     26
+    NAME      ATTACK DEFENSE RANGE COOLDOWN SPEED                   IMAGE                          RECT_X RECT_Y OFFSET_X OFFSET_Y NB_ANIM
+WISP_ATTACK     5      0      300     5.0      8      assets/combat/attacks/enemy_wisp_attack.png    192    192     60      -20        6
+AIR_ATTACK     10      0        0     5.0      8      assets/combat/attacks/enemy_air_attack.png     192    192     60      -20       11
+
+    NAME      ATTACK DEFENSE  HP    SPEED  ATTACKS  EXP   GOLD
+DEMON_GIRL      3      0     100      5       1     32     26
+    NAME      ATTACK DEFENSE RANGE COOLDOWN SPEED                   IMAGE                          RECT_X RECT_Y OFFSET_X OFFSET_Y NB_ANIM
+SHADOW_BALL     5      0     400     4.0     6      assets/combat/attacks/enemy_shadow_ball.png      96     96     80       60        4
+
+    NAME      ATTACK DEFENSE  HP    SPEED  ATTACKS  EXP   GOLD
+SCYTHE          5      5     150      4       3     58     34
+    NAME      ATTACK DEFENSE RANGE COOLDOWN SPEED                   IMAGE                          RECT_X RECT_Y OFFSET_X OFFSET_Y NB_ANIM
+BASE_ATTACK     5      0       0     2.0     0      assets/combat/attacks/enemy_slash_attack.png    110    129     80        0        3
+THUNDER_SPELL   5      0     300     4.0     8      assets/combat/attacks/enemy_thunder_attack.png   88     51     80       60        3
+THORN_ATTACK   15      0       0     8.0     8      assets/combat/attacks/enemy_thorn_attack.png    192    192     60      -20        9
+
+    NAME      ATTACK DEFENSE  HP    SPEED  ATTACKS  EXP   GOLD
+DEMON_LORD      10      5     200     5       3     64     36
+    NAME      ATTACK DEFENSE RANGE COOLDOWN SPEED                   IMAGE                          RECT_X RECT_Y OFFSET_X OFFSET_Y NB_ANIM
+SHADOW_BALL     5      0     400     4.0     6      assets/combat/attacks/enemy_shadow_ball.png      96     96     80       60        4
+THUNDER_SPELL   5      0     300     4.0     8      assets/combat/attacks/enemy_thunder_attack.png   88     51     80       60        3
+SHADOW_SLASH   15      0       0     8.0     8      assets/combat/attacks/enemy_shadow_slash.png   192    192     60      -20        7

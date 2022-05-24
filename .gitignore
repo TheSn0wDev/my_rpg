@@ -1,0 +1,5 @@
+.vscode
+*.gc*
+unit_tests
+my_rpg
+!includes
