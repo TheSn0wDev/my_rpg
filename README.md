@@ -5,6 +5,10 @@
   </a>
 </p>
 
+## Trailer
+
+We made a trailer for present our game. Watch it: https://www.youtube.com/watch?v=-RFrEc1UJyw
+
 ## General
 
 This project was done at the end of our first year at Epitech. The goal was to make a complete RPG game. We can choose the story and the theme we want. Finally, we chose the universe of Diablo.
